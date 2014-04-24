@@ -1,0 +1,9 @@
+C:\Users\Allan\Documents\SharpDevelop Projects\blackJack\blackJack\bin\Debug\blackJack.exe
+C:\Users\Allan\Documents\SharpDevelop Projects\blackJack\blackJack\bin\Debug\blackJack.pdb
+C:\Users\Allan\Documents\SharpDevelop Projects\blackJack\blackJack\bin\Debug\Boo.Lang.Useful.dll
+C:\Users\Allan\Documents\SharpDevelop Projects\blackJack\blackJack\bin\Debug\Boo.Lang.Parser.dll
+C:\Users\Allan\Documents\SharpDevelop Projects\blackJack\blackJack\bin\Debug\Boo.Lang.Compiler.dll
+C:\Users\Allan\Documents\SharpDevelop Projects\blackJack\blackJack\bin\Debug\Boo.Lang.dll
+C:\Users\Allan\Documents\SharpDevelop Projects\blackJack\blackJack\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Allan\Documents\SharpDevelop Projects\blackJack\blackJack\obj\x86\Debug\blackJack.exe
+C:\Users\Allan\Documents\SharpDevelop Projects\blackJack\blackJack\obj\x86\Debug\blackJack.pdb
